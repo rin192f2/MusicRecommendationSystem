@@ -1,0 +1,26 @@
+{
+"name": " musicrec-ommen-dation1ystem",
+"version": "1.0.0",
+"description": "A sophisticated music recommendation system that suggests personalized playlists based on user preferences and listening history. It employs machine learning techniques to analyze music patterns and provide tailored recommendations.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rin192f2/MusicRecommendationSystem.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rin192f2",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
